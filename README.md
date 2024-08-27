@@ -7,7 +7,7 @@ Student ID: 11473492
 ## Data Sources
 
 - **Low Carbon London Project dataset**: Available [here](insert_link). Note: This data is safeguarded.
-- **Weather data**: Provided in the repository as a CSV file (initially queried using the querying tool on Visual Crossing- https://www.visualcrossing.com/weather/weather-data-services and merged by the author).
+- **Weather data**: Provided in the repository as CSV files (queried using the querying tool on Visual Crossing- https://www.visualcrossing.com/weather/weather-data-services).
 
 ## Jupyter Notebooks
 

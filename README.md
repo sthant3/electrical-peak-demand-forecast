@@ -1,4 +1,4 @@
-# BM12: Electrical Peak Demand Forecast - Additional Materials
+# Electrical Peak Demand Forecast - Additional Materials
 
 This repository contains additional materials for the extended research project submitted to the University of Manchester for the degree of MSc Data Science in the Faculty of Humanities.
 

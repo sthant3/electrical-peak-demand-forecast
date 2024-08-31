@@ -6,7 +6,7 @@ Student ID: 11473492
 
 ## Important note
 
-The notebooks in the `code` folder contains code needed to reproduce the work. They are designed for reproducibility and verifiability of results (e.g., using print statementsa and tables),
+The notebooks in the `code` folder contains code needed to reproduce the work. They are designed for reproducibility and verifiability of results (e.g., using print statements and tables),
 and do not involve extensive EDA or code that is not needed for reproducing the work. 
 
 For the full code used for this study, please refer to the `full-code` folder, which contains 

@@ -29,7 +29,7 @@ To reproduce the work, please go through the notebooks in the `code` folder in n
 6. Additional Feature Engineering and Selection
 7. Model Development (A, C) 
 
-Note: 7B is not needed to reproduce the work. However, it is available in the `full-code` folder.
+Note: 7B is not included as it is not needed to reproduce the work. However, it is available in the `full-code` folder.
 
 ## Additional Visualizations
 
@@ -37,4 +37,4 @@ The `additional-visualizations` folder contains:
 - Pearson and Spearman's rank correlation matrices
 - Mutual information of categorical variables with the target variable
 
-For more extensive visualizations, refer to notebooks 5 and 6.
+For more visualizations, refer to notebooks 5 and 6.
